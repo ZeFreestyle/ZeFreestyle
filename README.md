@@ -43,5 +43,5 @@
   <img src="https://profile-counter.glitch.me/MrPandaDev/count.svg" />
 </p>
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrKinggDev&show_icons=true&hide_border=true" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkinggdev&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZeFreestyle&show_icons=true&hide_border=true" />
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=zefreestyle&show_icons=true&theme=tokyonight&layout=compact" />
