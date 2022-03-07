@@ -1,7 +1,7 @@
-### Hi, i'm MrKing.exe
+### Hi, i'm ZeFreestyle
 
 - 🔭 I’m currently working on a 
-- 📫 How to reach me: [Discord](https://discord.galaxiat.com)
+- 📫 How to reach me: [Discord](https://discord.gg/uFHFzsUwej)
 - 💻 I use [Postman](https://www.postman.com) for create a social network.
 - 🥖 I live in France
 
