@@ -1,6 +1,6 @@
 ### Hi, i'm ZeFreestyle
 
-- 🔭 I’m currently working on a 
+- 🔭 I’m currently working on a MacOS on web.
 - 📫 How to reach me: [Discord](https://discord.gg/uFHFzsUwej)
 - 💻 I use [Postman](https://www.postman.com) for create a social network.
 - 🥖 I live in France
