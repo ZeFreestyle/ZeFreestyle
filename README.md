@@ -34,8 +34,7 @@
 
 
 ## 🚩 Projects:
-- Studio Baguette
-- Target: BlackScorpion
+- 
 
 
 <p align="left"> 
